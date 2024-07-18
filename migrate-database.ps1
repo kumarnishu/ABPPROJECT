@@ -1,0 +1,1 @@
+dotnet run --project Acme.BookStore2 --migrate-database
